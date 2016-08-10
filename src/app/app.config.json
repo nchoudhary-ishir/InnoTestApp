@@ -1,0 +1,14 @@
+{
+  "appname": "InnoTestApp",
+  "scope": "DevCenterImpersonate",
+  "clientid": "3655B6AF-3DC3-4FC9-A491-642418CA50F2",
+  "buyerid": "VendorA",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
